@@ -141,7 +141,7 @@ hr {
 
 /*** Fade in on hover ***/
 .fade-in-on-hover {
-    background-image: url('/images/clouds.jpg');
+    background-image: url('../images/clouds.jpg');
     background-size: cover;
     position: relative;
     width: 100%;
